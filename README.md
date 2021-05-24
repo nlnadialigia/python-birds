@@ -6,7 +6,7 @@
 <h1 align="center">
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/python-birds?color=480032&logoColor=480032&style=flat-square"/>
 
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/python-birds?color=480032&logoColor=480032&style=flat-square"/>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/python-birds?color=480032&logoColor=480032&style=flat-square">
    
 
   <a href="./LICENSE.md">
