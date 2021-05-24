@@ -17,7 +17,7 @@
 
 # 📌 Sobre
 
-Repositório ao módulo introdutório do [Bootcamp DevPro](https://pythonpro.com.br/).
+Repositório referente ao módulo introdutório do [Bootcamp DevPro](https://pythonpro.com.br/).
 
 Neste módulo foram ensinados os conceitos de programação Procedural e Orientação a Objetos em Python, sendo desenvolvida uma versão simplificada do jogo Angry Birds.
 
@@ -103,13 +103,13 @@ Neste módulo foram ensinados os conceitos de programação Procedural e Orienta
 <img src=".github/picture.png" width="100px;" alt="Picture"/>
 <p><b>Nádia Ligia, budding back-end developer.</b></p>
 <a href="https://www.linkedin.com/in/nlnadialigia/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin -91091e?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlnadialigia/" />
+  <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin -480032?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlnadialigia/" />
 </a>&nbsp;
 <a href="mailto:nlnadialigia@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/-Email-91091e?style=flat&logo=Gmail&logoColor=white&link=mailto:nlnadialigia@gmail.com" />
+  <img alt="Email" src="https://img.shields.io/badge/-Email-480032?style=flat&logo=Gmail&logoColor=white&link=mailto:nlnadialigia@gmail.com" />
 </a>&nbsp;
 <a href="https://www.nlnadialigia.com">
-  <img alt="Homepage" src="https://img.shields.io/badge/-Homepage-91091e" />
+  <img alt="Homepage" src="https://img.shields.io/badge/-Homepage-480032" />
 </a>
 
 <br>
