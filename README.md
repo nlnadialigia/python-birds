@@ -56,7 +56,7 @@ Neste módulo foram ensinados os conceitos de programação Procedural e Orienta
 - Retrospectiva: Paradigma Procedural 
 - Programação se Aprende pelos Dedos! 
 
-#### ➡️ [Orientação a Objetos](./poo)
+#### ➡️ [Orientação a Objetos](https://github.com/nlnadialigia/pythonbirds.git)
 
 **Classe e Composição**
 - Git no Windows 
